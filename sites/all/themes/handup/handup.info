@@ -1,0 +1,32 @@
+name = Handup Theme
+description = Subtheme of Education.
+version = VERSION
+core = 7.x
+engine = 'phptemplate'
+base theme = 'education'
+
+stylesheets[all][] = css/style.css
+
+regions[headline] = Head Line
+regions[header] = Header
+regions[slideshow] = Slideshow
+regions[main_menu] = Main Menu
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+regions[featured] = Featured
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[sidebar_featured] = Sidebar Featured
+regions[sidebar_home] = Sidebar Home
+regions[panel_first_1] = Panel First 1
+regions[panel_second_1] = Panel Second 1
+regions[panel_second_2] = Panel Second 2
+regions[panel_third_1] = Panel Third 1
+regions[panel_forth_1] = Panel Forth 1
+regions[panel_forth_2] = Panel Forth 2
+regions[panel_forth_3] = Panel Forth 3
+regions[panel_forth_4] = Panel Forth 4
+regions[footer] = Footer
